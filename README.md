@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Remek</h1>
-<h3 align="center">js developer from poland</h3>
-
-working at [HostGier.PL](https://github.com/HostGierPL)
-contact with me at: **contact@remekkowalik.me**
+Hi,<br>
+I'm Remigiusz<br>
+17 yo dev from Poland<br>
+working at HostGier.PL<br>
+contact me by:<br>
+-> Discord: remek#0001 [887190030450323486]<br>
+-> Email: contact@remekkowalik.me<br>
