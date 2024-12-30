@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br><br>I'm Remigiusz.<br> 19 years old Developer from Poland.<br>Feel free to contact me at private@remekkowalik.me<br>Discord: r3mek<br>
+Hi 👋<br><br>I'm Remigiusz.<br> 20 years old Developer from Poland.<br>Feel free to contact me at private@remekkowalik.me<br>Discord: r3mek<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/remigiuszjakub.kowalik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/remigiusz-kowalik-03852023a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Remek0007) 
